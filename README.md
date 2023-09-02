@@ -1,6 +1,6 @@
 # Rock-paper-scissor
 
-Welcome to a very interactive game of Rock Paper Scissor.
+Welcome to a very interactive game of Rock Paper Scissor.  
 Very briefly we will go through everything.
 
 1 . Clone the repo and install all dependencies
